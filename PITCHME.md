@@ -99,7 +99,7 @@ Ruby, Goは0 perlは3000
 ---
 ### Slow log
 
-![slow log](assets/slow log.png)
+![slow log](assets/slow_log.png)
 
 ---
 
@@ -115,6 +115,12 @@ Ruby, Goは0 perlは3000
 ---
 
 ### Nginx log
+
+![alp](assets/alp.png)
+
+---
+
+### Nginx log
 - alpというツールでログが整形して見れる
 - '/'がめっちゃ重い
 - キーワードを正規表現で置換しているコードがありそこがめちゃめちゃ遅い
@@ -122,8 +128,6 @@ Ruby, Goは0 perlは3000
 Go,Rubyがfailになる理由はこれだった
 
 ちなみにperlは早かった
-
-![alp](assets/alp.png)
 
 ---
 
