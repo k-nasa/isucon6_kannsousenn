@@ -141,9 +141,13 @@ Go,Rubyがfailになる理由はこれだった
 
 25000点くらいまで
 
+---
+
 ### 予選突破した！
 
 ![gakuseiwaku](assets/gakuseiwaku.png)
+
+---
 
 ### 皆さん強すぎる
 
