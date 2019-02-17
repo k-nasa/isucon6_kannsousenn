@@ -65,13 +65,9 @@ GitHub: k-nasa
 
 ### sar
 
-とりまベンチ
+とりまベンチ 初期スコア2000くらい(python)
 
-2000くらい(python)
-
-Ruby, Goは0
-
-perlは3000
+Ruby, Goは0 perlは3000
 
 このアプリケーションはCPU負荷
 
