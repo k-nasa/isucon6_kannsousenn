@@ -82,14 +82,17 @@ Ruby, Goは0 perlは3000
 ---
 ### DB構成
 
+![db](assets/db.png)
+
+---
+### DB構成
+
 - index貼りすぎた
 - もともとkeyword, updated_atにindexはなかった
 - にもかかわらずゴリゴリ検索されていた
 - sql雰囲気なのでexplainで確かめながら実行した
 - はったら7000点くらい
 - descriptionは17MB位ある -> 破棄したい
-
-![db](assets/db.png)
 
 ---
 ### Slow log
