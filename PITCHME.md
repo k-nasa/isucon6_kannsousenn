@@ -111,7 +111,6 @@ Ruby, Goは0 perlは3000
 - indexうまく使えず、全カラム見ちゃうのです
 - keyword_lenthカラムを作って入れておくで解決？
 
-
 ---
 
 ### Nginx log
@@ -141,3 +140,11 @@ Go,Rubyがfailになる理由はこれだった
 - キャッシュ破棄を最適化して
 
 25000点くらいまで
+
+### 予選突破した！
+
+![gakuseiwaku](assets/gakuseiwaku.png)
+
+### 皆さん強すぎる
+
+![tuyotuyo](assets/tuyotuyo.png)
