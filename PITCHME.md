@@ -8,6 +8,8 @@ name: nasa(近藤アサン)
 
 所属: 福岡工業大学, m0neyf0rward
 
+Rust好き〜
+
 福岡生まれ福岡育ち
 
 Twitter: @nasa_desu
@@ -97,13 +99,18 @@ Ruby, Goは0 perlは3000
 ---
 ### Slow log
 
+![slow log](assets/slow log.png)
+
+---
+
+### Slow log
+
 - pt-query-digestで整形して出したログ
 - ここはまだ未修正(キャッシュでごまかした)
 - charcter_length(keyword)が毎回かかる
 - indexうまく使えず、全カラム見ちゃうのです
 - keyword_lenthカラムを作って入れておくで解決？
 
-![slow log](assets/slow log.png)
 
 ---
 
